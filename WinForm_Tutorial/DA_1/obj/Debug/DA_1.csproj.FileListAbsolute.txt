@@ -1,0 +1,9 @@
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\bin\Debug\DA_1.exe.config
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\bin\Debug\DA_1.exe
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\bin\Debug\DA_1.pdb
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\obj\Debug\DA_1.csprojResolveAssemblyReference.cache
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\obj\Debug\DA_1.Form1.resources
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\obj\Debug\DA_1.csproj.GenerateResource.Cache
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\obj\Debug\DA_1.exe
+D:\Project_VS2015\code_C#\WinForm_Tutorial\DA_1\obj\Debug\DA_1.pdb

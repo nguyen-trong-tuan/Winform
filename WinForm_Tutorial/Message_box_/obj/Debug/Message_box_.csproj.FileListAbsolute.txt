@@ -1,0 +1,12 @@
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\bin\Debug\Message_box_.exe.config
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\bin\Debug\Message_box_.exe
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\bin\Debug\Message_box_.pdb
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.csprojResolveAssemblyReference.cache
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.Form1.resources
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.Properties.Resources.resources
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.csproj.GenerateResource.Cache
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.exe
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.pdb
+D:\Project_VS2015\code_C#\WinForm_Tutorial\Message_box_\bin\Debug\Message_box_.exe.config
+D:\Project_VS2015\code_C#\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.exe
+D:\Project_VS2015\code_C#\WinForm_Tutorial\Message_box_\obj\Debug\Message_box_.pdb

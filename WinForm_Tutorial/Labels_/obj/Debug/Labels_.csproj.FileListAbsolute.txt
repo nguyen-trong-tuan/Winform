@@ -1,0 +1,9 @@
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\bin\Debug\Labels_.exe.config
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\bin\Debug\Labels_.exe
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\bin\Debug\Labels_.pdb
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\obj\Debug\Labels_.csprojResolveAssemblyReference.cache
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\obj\Debug\Labels_.Form1.resources
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\obj\Debug\Labels_.Properties.Resources.resources
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\obj\Debug\Labels_.csproj.GenerateResource.Cache
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\obj\Debug\Labels_.exe
+D:\Project_VS2015\code_C#\Form\WinForm_Tutorial\Labels_\obj\Debug\Labels_.pdb
